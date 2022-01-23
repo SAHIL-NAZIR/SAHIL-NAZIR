@@ -1,4 +1,5 @@
-### Hi there 👋
+![header image](header.png)
+
 
 <!--
 **SAHIL-NAZIR/SAHIL-NAZIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
