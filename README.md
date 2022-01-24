@@ -1,4 +1,4 @@
-[![header image](Header.png)](https://github.com/SAHIL-NAZIR)
+[![header image](header.png)](https://github.com/SAHIL-NAZIR)
 
 
 <!--
