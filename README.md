@@ -1,7 +1,7 @@
 [![header image](header.png)](https://github.com/SAHIL-NAZIR)
 
 ![Profile views](https://gpvc.arturio.dev/SAHIL-NAZIR)
-![Twitter Follow](https://img.shields.io/twitter/follow/SAHIL_NAZIR26?label=%40SAHIL_NAZIR26&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/lonesahilnazir?label=%40lonesahilnazir&style=social)
 
 
 <!--
