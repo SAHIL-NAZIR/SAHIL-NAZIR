@@ -1,4 +1,4 @@
-[![header image](header.svg)](https://github.com/SAHIL-NAZIR)
+[![header image](header.jpg)](https://github.com/SAHIL-NAZIR)
 
 ![Profile views](https://gpvc.arturio.dev/SAHIL-NAZIR)
 ![Twitter Follow](https://img.shields.io/twitter/follow/lonesahilnazir?label=%40lonesahilnazir&style=social)
