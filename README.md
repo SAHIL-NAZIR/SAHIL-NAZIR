@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/website?color=%230A66C2&down_message=LinkedIn&label=%20&logo=LinkedIn&up_message=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flonesahilnazir%2F)](https://www.linkedin.com/in/lonesahilnazir/)
 [![Dribbble](https://img.shields.io/website?color=%23EA4C89&label=%20&logo=Dribbble&logoColor=%23FFFFFF&up_message=Dribbble&url=https%3A%2F%2Fdribbble.com%2Flonesahilnazir)](https://dribbble.com/lonesahilnazir)
 ---
-<p align='center'>Keen - active - enthusiastic</p>
+<p align='center'>Keen :sparkles: - active :rocket: - enthusiastic  :octocat: </p>
 
 <!--
 **SAHIL-NAZIR/SAHIL-NAZIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
