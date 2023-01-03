@@ -1,7 +1,7 @@
 [![header image](header.jpg)](https://github.com/lonesahilnazir)
 
 ![Profile views](https://gpvc.arturio.dev/lonesahilnazir)
-[![Website](https://img.shields.io/website?color=0D1137&up_message=sahilnazir.com&url=http%3A%2F%2Fsahilnazir.com%2F)](https://www.sahilnazir.com/)
+[![Website](https://img.shields.io/badge/website-sahilnazir.com-%230D1137)](https://www.sahilnazir.com/)
 [![Twitter](https://img.shields.io/website?color=%231DA1F2&label=%20&logo=Twitter&logoColor=%23ffffff&up_message=Twitter&url=https%3A%2F%2Ftwitter.com%2Flonesahilnazir)](https://twitter.com/lonesahilnazir)
 [![Instagram](https://img.shields.io/website?color=%23E4405F&down_message=Instagram&label=%20&logo=Instagram&logoColor=%23ffffff&up_message=Instagram&url=http%3A%2F%2Finstagram.com%2Flonesahilnazir)](https://instagram.com/lonesahilnazir)
 [![LinkedIn](https://img.shields.io/website?color=%230A66C2&down_message=LinkedIn&label=%20&logo=LinkedIn&up_message=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flonesahilnazir%2F)](https://www.linkedin.com/in/lonesahilnazir/)
@@ -9,17 +9,21 @@
 ---
 <p align='center'>Keen :sparkles: - active :rocket: - enthusiastic  :octocat: </p>
 
-<!--
-**SAHIL-NAZIR/SAHIL-NAZIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+```json
+{
+  "name": "Sahil Nazir"
+  "currentlyWorking": "Calcify"
+  "currentlyLearning": "JavaScript"
+  "collaborationAvailability": "Available"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+> 🔭 I’m currently working on [Calcify](https://github.com/lonesahilnazir/Calcify)
+> 
+> 🌱 I’m currently learning **JavaScript**
+> 
+> 👯 I’m looking to collaborate on a challenging website idea!
