@@ -28,3 +28,19 @@
 > 🌱 I’m currently learning **JavaScript**
 > 
 > 👯 I’m looking to collaborate on a challenging website idea!
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=lonesahilnazir&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=lonesahilnazir&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=lonesahilnazir&show_icons=true" />
+</picture>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonesahilnazir&theme=dark&layout=compact)](https://github.com/lonesahilnazir/github-readme-stats)
